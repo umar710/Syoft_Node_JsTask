@@ -71,15 +71,15 @@ Products :- ~ The product model will have fields like title, description & inven
     
     dummyProducts =
     {
-    title: "Wireless Mouse",
-    description: "A high-precision wireless mouse with ergonomic design and long battery life.",
-    inventory_count: 150
+    "title": "Wireless Mouse",
+    "description": "A high-precision wireless mouse with ergonomic design and long battery life.",
+    "inventoryCount": 150
    }
 
   {
-    title: "Bluetooth Headphones",
-    description: "Noise-cancelling Bluetooth headphones with rich sound quality and comfortable fit.",
-    inventory_count: 85
+    "title": "Bluetooth Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with rich sound quality and comfortable fit.",
+    "inventoryCount": 85
   }
   
 
